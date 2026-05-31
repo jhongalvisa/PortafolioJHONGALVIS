@@ -24,7 +24,7 @@ PortafolioAcadémico/
   Parcial 2 JHON GALVIS/
   Parcial 3 JHON GALVIS/
   Proyecto Académico Frontend EcoMart/
-  Proyecto Académico HomeFix/
+  Proyecto Académico CyberLearn /
 ```
 
 ## Proyectos incluidos
@@ -45,7 +45,7 @@ Proyecto académico orientado al desarrollo de una aplicación web con estructur
 
 Aplicación frontend académica relacionada con una plataforma de comercio electrónico. Incluye construcción de interfaces, manejo de vistas y funcionalidades orientadas a la experiencia del usuario.
 
-### Proyecto Académico HomeFix
+### Proyecto Académico CyberLearn 
 
 Aplicación académica de servicios de cursos sobre ciberseguridas, desarrollada con enfoque en frontend, componentes reutilizables, flujo de usuario y organización del código.
 
